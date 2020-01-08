@@ -9,4 +9,4 @@ This is a actually a complete project, in this repository, I showed how to imple
 
 ## Preview
 
-https://github.com/utpal-barman/form_with_focus_node/raw/master/20200108_151055.gif
+![](https://github.com/utpal-barman/form_with_focus_node/raw/master/20200108_151055.gif)
