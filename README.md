@@ -13,8 +13,6 @@ Putting this on the dropdown will unfocus all active focus node.
 ```
 onChanged: (value) {
            setState(() {
-                // Will unfocus other fields, otherwise after selecting
-                // a value last active focus node will be focused
                 FocusScope.of(context).requestFocus(new FocusNode());
                 _selectedText = value;
             });     
