@@ -21,6 +21,13 @@ onChanged: (value) {
 },
 ```
 
+## To get this to your device
+
+Make sure you have installed git in your computer or device.
+
+run this in terminal / git bash / command prompt
+
+git clone https://github.com/utpal-barman/form_with_focus_node.git
 
 ## Preview
 
