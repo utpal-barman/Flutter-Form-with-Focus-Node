@@ -36,7 +36,7 @@ Form(
    
                 DropdownButtonFormField(
                   
-                  ...
+                  //...some codes are omitted
                   
                   onChanged: (value) {
                     setState(() {
@@ -44,7 +44,8 @@ Form(
                       _selectedText = value;
                     });
                   },
-                  ...
+                  
+                  //... other codes like decoration, items etc.
                 ),
                     
              ],
