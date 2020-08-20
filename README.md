@@ -88,7 +88,7 @@ Find more information to get started check the official [documentation](https://
 
 You can submit feedback and report bugs as Github issues. Please be sure to include your operating system, device, version number, and steps to reproduce reported bugs.
 
-[Report a Github Issue](https://github.com/utpal-barman/form_with_focus_node.git/issues/new)
+[Report a Github Issue](https://github.com/utpal-barman/Flutter-Form-with-Focus-Node.git/issues/new)
 
 ### Request or submit a feature :postbox:
 
